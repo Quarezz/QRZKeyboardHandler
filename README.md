@@ -1,5 +1,5 @@
 # QRZKeyboardHandler
-A simple Objective-C class that can help you to reduce your UIKeyboard handling code.
+A simple Objective-C class that can help you to reduce your iOS UIKeyboard handling code.
 ### Example
 
 ```
