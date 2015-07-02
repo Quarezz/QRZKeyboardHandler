@@ -1,6 +1,6 @@
 # QRZKeyboardHandler
-A simple Objective-C class that can help you to reduce your iOS UIKeyboard handling code.
-### Example
+A simple iOS Keyboard Handler class that can help you to reduce your UIKeyboard handling code.
+### Example 
 
 ```
 -(void) viewWillAppear:(BOOL)animated
